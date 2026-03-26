@@ -1,6 +1,8 @@
 # cc-backend-2026-mod4
 
-This uses python 3.12
+This uses python 3.12 .venv
+* Ctrl+Shift+P
+* Python: Select Interpreter
 
 # start
 flask --app api run --debug 
